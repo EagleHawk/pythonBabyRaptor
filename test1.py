@@ -9,3 +9,5 @@ for fruit in fruits:        # Second Example
    print ('Current fruit :', fruit)
 
 print ("Good bye!")
+
+print ("New Line added !!")
